@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi Developers👋
 
-<!--
-**tejashreeSalvi/tejashreeSalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img height="300" width="550" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif"><img>
 
-Here are some ideas to get you started:
+- 🌱 I’m a Final Year Computer Science Student
+- 🔭 I’m currently working on AUTOMATING PRESCRIPTION SUGGESTION ON DISEASES
+- 🌱 I’m currently learning PYTHON FOR OPERATING SYSTEM
+- 🤔 I’m looking for help with GESTURE CONTROLLED CROSS-PLATFORM OS
+- 💬 Ask me about Natural Language processing, Web frameworks.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tejashree-salvi-003aa2195/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Languages, Tools and Framework Known 📜
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/figma.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/androidstudio.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
