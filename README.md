@@ -3,8 +3,6 @@
 <img height="300" width="550" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif"><img>
 
 - 🌱 I’m a Final Year Computer Science Student
-- 🔭 I’m currently working on AUTOMATING PRESCRIPTION SUGGESTION ON DISEASES
-- 🌱 I’m currently learning PYTHON FOR OPERATING SYSTEM
 - 🤔 I’m looking for help with GESTURE CONTROLLED CROSS-PLATFORM OS
 - 💬 Ask me about Natural Language processing, Web frameworks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tejashree-salvi-003aa2195/)
