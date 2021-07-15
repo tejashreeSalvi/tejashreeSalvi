@@ -2,8 +2,7 @@
 
 <img height="300" width="550" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif"><img>
 
-- 🌱 I’m a Final Year Computer Science Student
-- 🤔 I’m looking for help with GESTURE CONTROLLED CROSS-PLATFORM OS
+- 🌱 I’m a Final Year Computer Science Student and Project Intern at Altimetrik
 - 💬 Ask me about Natural Language processing, Web frameworks.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tejashree-salvi-003aa2195/)
 
