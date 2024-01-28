@@ -1,6 +1,6 @@
 ### Hi Developers👋
 
-<img height="300" width="550" src="https://cdn.dribbble.com/users/1951182/screenshots/4560823/800x600.gif"><img>
+<a href="https://iconscout.com/lottie-animations/working-chart" class="text-underline font-size-sm" target="_blank">Working chart</a> by <a href="https://iconscout.com/contributors/nanoagency" class="text-underline font-size-sm" target="_blank">nanoagency</a>
 
 - I am an Engineer - DEVOPS at Altimetrik India
 - 💬 Currently working with Python, Flask framework. Have hands-on experience in developing rest-apis from scratch.
